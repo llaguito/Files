@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ficheros;
+package files;
 
 import java.io.FileReader;
 import java.io.IOException;
@@ -17,6 +17,7 @@ public class BuscarPalabra {
 
     /**
      * @param args the command line arguments
+     * @throws java.io.IOException
      */
     public static void main(String[] args)throws IOException {
       FileReader entrada=null;
