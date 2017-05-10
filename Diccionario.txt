@@ -1,14 +1,10 @@
-Santiago
-nombre propio
-adios
-una despedida
-coger
-agarrar algo
-epa
-alteracion
-hola
-un saludo
-nuevo
-inicial
-programar
-al al al
+Adios
+Una despedida.
+Amar
+Tener amor a alguien o algo.
+Atardecer
+Ocultarse la luz del dia.
+Hola
+Un saludo.
+Programacion
+Accion de programar.
