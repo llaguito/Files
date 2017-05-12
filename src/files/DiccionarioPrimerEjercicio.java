@@ -20,7 +20,7 @@ import java.util.Scanner;
  *
  * @autor Santiago Losada Borrajo
  */
-public class Diccionario {
+public class DiccionarioPrimerEjercicio {
 
     public static void main(String[] args) throws IOException {
         Scanner leer = new Scanner(System.in);
