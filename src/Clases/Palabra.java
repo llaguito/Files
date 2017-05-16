@@ -45,4 +45,5 @@ public class Palabra implements Serializable {
     public void setTraduccion(String traduccion) {
         this.traduccion = traduccion;
     }
+       
 }
